@@ -12,9 +12,13 @@ React Router: A routing library for React that keeps the URL in sync with the pa
 To run this project locally, follow these steps:
 Clone the repository:
 
-bash
+```sh
 git clone [https://github.com/your-repo-url.git](https://github.com/Mychaly/Home-furniture---react.git)
+```
+
+```sh
 cd online-shopping-website
+```
 
 Install dependencies:
 
