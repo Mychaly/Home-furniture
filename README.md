@@ -35,15 +35,13 @@ npm start
 
 Open http://localhost:3000 in your browser to view the application.
 
-Features Implemented
-User Authentication: Login and registration forms with validation.
-Product Listing: Displaying a list of products with details and filtering options.
-Shopping Cart: Adding products to the cart, updating quantities, and calculating total price.
-Order Placement: Form for entering shipping details and placing orders.
-Admin Dashboard: Additional features accessible to admin users like product management and order management.
-Future Enhancements
-Implementing user profiles and order history.
-Enhancing the admin dashboard with analytics and more detailed product management features.
+## Features Implemented
+- User Authentication: Login and registration forms with validation.
+- Product Listing: Displaying a list of products with details and filtering options.
+- Shopping Cart: Adding products to the cart, updating quantities, and calculating total price.
+- Order Placement: Form for entering shipping details and placing orders.
+- Admin Dashboard: Additional features accessible to admin users like product management and order management.
+
 
 
 
