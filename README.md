@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo-url.git
+git clone [https://github.com/your-repo-url.git](https://github.com/Mychaly/Home-furniture---react.git)
 cd online-shopping-website
 Install dependencies:
 
