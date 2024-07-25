@@ -1,13 +1,13 @@
-#Online Shopping Website
+# Online Shopping Website
 This project is an online shopping website built using React, Redux, Axios, and Material UI.
 
-##Technologies Used :
+## Technologies Used :
 React: A JavaScript library for building user interfaces.
 Redux: A predictable state container for JavaScript apps, used here for managing application state.
 Axios: A promise-based HTTP client for the browser and Node.js, used for making API calls to the server.
 React Router: A routing library for React that keeps the URL in sync with the page content.
 
-##Installation:
+## Installation:
 
 To run this project locally, follow these steps:
 Clone the repository:
