@@ -13,18 +13,22 @@ To run this project locally, follow these steps:
 Clone the repository:
 
 bash
-Copy code
 git clone [https://github.com/your-repo-url.git](https://github.com/Mychaly/Home-furniture---react.git)
 cd online-shopping-website
+
 Install dependencies:
 
-Copy code
+```sh
 npm install
+```
+
 Start the development server:
 
-sql
-Copy code
+
+```sh
 npm start
+```
+
 Open http://localhost:3000 in your browser to view the application.
 
 Features Implemented
